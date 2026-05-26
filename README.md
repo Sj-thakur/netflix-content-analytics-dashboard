@@ -47,11 +47,10 @@ visuals/
 - Drama and International genres appear frequently
 
 ## Dashboard Preview
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/616667a8-e4fe-431a-8672-ce7c1a9b78bd" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe7c1831-b2a9-44fa-9f34-786db6a513d3" />
+<img width="1198" height="649" alt="p1" src="https://github.com/user-attachments/assets/49a5e2a2-6e9a-4ccd-a77b-a23aa11fbfaa" />
+<img width="1183" height="692" alt="p2" src="https://github.com/user-attachments/assets/412795cb-4dfb-446a-8220-71f1939b1d2a" />
 <img width="1196" height="688" alt="p3" src="https://github.com/user-attachments/assets/8aaa53c7-ec7c-4ba6-9eb6-0b94aa285263" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/783993eb-03f6-4877-b8f1-7c709aefc56c" />
+<img width="1194" height="683" alt="p4" src="https://github.com/user-attachments/assets/1ca2a8c0-81a7-4c38-9431-bce97b396e51" />
 
 
 ## Author
